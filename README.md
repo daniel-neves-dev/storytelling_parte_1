@@ -39,7 +39,7 @@ O relatório foi dividido em três principais painéis:</p>
 -----------------------------------------------------------
 ### Como Executar:
 
-1 - Faça o download do arquivo .pbix (projeto do Power BI).
+1 - Faça o download do arquivo .pbix (storytellying_1).
 
 2 - Abra o arquivo no Power BI Desktop.
 
