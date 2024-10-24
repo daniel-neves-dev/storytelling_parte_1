@@ -1,9 +1,8 @@
 <h1>Modelagem de Dados com Power BI</h1> 
 
-<h2>Desafio 5 - Parte 1: Criando Relatório Gerencial
-<p></p>
-Objetivo:</h2>
+<h2>Desafio 5 - Parte 1: Criando Relatório Gerencial</h2>
 
+<h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do Bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar um relatório simulando um pedido gerencial dos dados.</p>
 
 <p>Funcionalidades do Relatório.
